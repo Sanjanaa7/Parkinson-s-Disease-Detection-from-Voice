@@ -68,17 +68,6 @@ Optional: Other datasets (PC-GITA, Oxford Parkinson’s) for raw audio experimen
 
 ---
 
-## 👨‍💻 How to Run
-```bash
-# Clone repository
-git clone https://github.com/your-username/parkinsons-voice-detection.git
-cd parkinsons-voice-detection
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run notebook in Google Colab
-```
 📜 License
 
 This project is open-source under the MIT License.

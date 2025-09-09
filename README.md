@@ -55,11 +55,10 @@ Optional: Other datasets (PC-GITA, Oxford Parkinson’s) for raw audio experimen
 
 ---
 
-## 📊 Example Results (to be updated)
-| Model        | Accuracy | Precision | Recall | F1-score |
-|--------------|----------|-----------|--------|----------|
-| DNN (tabular)| 89%      | 0.88      | 0.87   | 0.87     |
-| CNN (MFCC)   | 92%      | 0.91      | 0.90   | 0.90     |
+## 📊 Example Results 
+  
+<img width="800" height="339" alt="image" src="https://github.com/user-attachments/assets/84fe7ae6-41d5-4383-9af5-f71625c5bb18" />
+
 
 
 ## 💡 Future Work
